@@ -45,9 +45,7 @@ If you want to contribute to Solr, see the [Solr Resources](http://lucene.apache
 
 # License
 
-Solr is licensed under the [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0), and this repository is too:
-
-Copyright 2015 Martijn Koster
+Solr is licensed under the [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0), and this repository:
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
